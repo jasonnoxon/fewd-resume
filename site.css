@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Montserrat:900&display=swap');
+
+body {
+  font-family:'Courier New', Courier, monospace;
+}
+
+h1 { font-family: 'Aclonica', sans-serif; }
+
+h1 small {
+  font-family: Arial, Helvetica, sans-serif;
+  font-variant-caps: all-small-caps;
+  opacity: .3;
+}
+
+h2 { font-family: 'Montserrat', sans-serif; }
+h4 { font-variant-caps: all-small-caps; }
